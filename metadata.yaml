@@ -1,5 +1,8 @@
 _repo: The-English-works-of-Thomas-Hobbes-of-Malmesbury-Volume-04-of-11_74236
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74236-h/images/cover.jpg
 creator:
   author:
     agent_name: Hobbes, Thomas
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57259
     wikipedia: https://en.wikipedia.org/wiki/Sir_William_Molesworth,_8th_Baronet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74236#The-English-works-of-Thomas-Hobbes-of-Malmesbury-Volume-04-of-11
 gutenberg_issued: '2024-08-12'
 gutenberg_type: Text
 identifiers:
